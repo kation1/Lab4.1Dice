@@ -55,7 +55,7 @@ namespace Lab4._1Dice
                     //Box cars
                     if (firstDie == 6 && secondDie == 6)
                     {
-                        return  $"\nBox Cars";
+                        return  ($"{diceRoll}\nBox Cars");
                     }
                     //Ace Deuce
                     else if (firstDie == 1 && secondDie == 2 || firstDie == 2 && secondDie == 1)
