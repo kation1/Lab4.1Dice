@@ -1,0 +1,13 @@
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.exe
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.deps.json
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.runtimeconfig.json
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.runtimeconfig.dev.json
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.dll
+C:\devbuild\Week4\Lab4.1Dice\bin\Debug\netcoreapp3.1\Lab4.1Dice.pdb
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.csprojAssemblyReference.cache
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.AssemblyInfoInputs.cache
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.AssemblyInfo.cs
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.csproj.CoreCompileInputs.cache
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.dll
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.pdb
+C:\devbuild\Week4\Lab4.1Dice\obj\Debug\netcoreapp3.1\Lab4.1Dice.genruntimeconfig.cache
